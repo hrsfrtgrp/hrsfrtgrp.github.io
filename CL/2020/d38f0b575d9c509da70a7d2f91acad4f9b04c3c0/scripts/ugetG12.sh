@@ -1,7 +1,7 @@
 #!/bin/bash -x
 cd png
 
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 220064q.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://tkms-515.github.io/cl2020.html 220064q.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://tmrkmt.github.io/cl2020.html 220104q.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://fuchi615.github.io/cl2020.html 230147b.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 230263m.png
@@ -74,7 +74,7 @@ xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --hei
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240086aTKG.github.io/cl2020.html 240086a.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://1240087.github.io/cl2020.html 240087f.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240088m.github.io/cl2020.html 240088m.png
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240089n.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240089n.github.io/cl2020.html 240089n.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240090k.github.io/cl2020.html 240090k.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://51014t.github.io/cl2020.html 240091s.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://mm-piu.github.io/cl2020.html 240092a.png
@@ -84,7 +84,7 @@ xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --hei
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://futamura081299.github.io/cl2020.html 240099h.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://miraing806.github.io/cl2020.html 240101k.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://hbktri.github.io/cl2020.html 240102i.png
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240103v.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://shioridoi.github.io/cl2020.html 240103v.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240104i.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://takosan1210.github.io/cl2020.html 240105m.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://yoshitaka1240106 .github.io/cl2020.html 240106y.png
@@ -92,13 +92,13 @@ xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --hei
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://kaicrossbone.github.io/cl2020.html 240109q.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240110s.github.io/cl2020.html 240110s.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240111k.png
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240112b.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240112b.github.io/cl2020.html 240112b.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://nkn0129.github.io/cl2020.html 240113i.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240114c.github.io/cl2020.html 240114c.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://nai-04.github.io/cl2020.html 240116m.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://daiya271828.github.io/cl2020.html 240117n.png
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240118w.png
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240119i.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://punpun1240.github.io/cl2020.html 240118w.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://motty-u10.github.io/cl2020.html 240119i.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://daibu-chan.github.io/cl2020.html 240120f.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://nnktmm.github.io/cl2020.html 240122b.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://akitakanohara.github.io/cl2020.html 240123c.png
@@ -136,7 +136,7 @@ xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --hei
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://rgrptegsmk.github.io/cl2020.html 240159s.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://kazunorimoriyama.github.io/cl2020.html 240160w.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://ryosuke0130.github.io/cl2020.html 240161z.png
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://.github.io/cl2020.html 240162t.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240162t.github.io/cl2020.html 240162t.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240163c.github.io/cl2020.html 240163c.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://yngtmzk240164n.github.io/cl2020.html 240164n.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240165.github.io/cl2020.html 240165q.png
