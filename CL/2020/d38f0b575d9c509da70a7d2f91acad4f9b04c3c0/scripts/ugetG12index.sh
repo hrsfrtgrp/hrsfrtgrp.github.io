@@ -14,7 +14,7 @@ xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --hei
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://1240007k.github.io/ 240007k_index.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://ren-ishida.github.io/ 240008h_index.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://natsukiitou.github.io/ 240010u_index.png
-xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://myuseru2013 .github.io/ 240011x_index.png
+xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://myuseru2013.github.io/ 240011x_index.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://yutaroito.github.io/ 240012q_index.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://240014m.github.io/ 240014m_index.png
 xvfb-run wkhtmltoimage --proxy proxy.noc.kochi-tech.ac.jp:3128 --width 640 --height 480  --quality 50 https://kento13526.github.io/ 240015r_index.png
